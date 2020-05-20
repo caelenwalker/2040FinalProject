@@ -1,0 +1,11 @@
+C:\Users\cm3wa\OneDrive\Desktop\Music Playlist Analyzer\bin\Debug\netcoreapp3.1\Music Playlist Analyzer.exe
+C:\Users\cm3wa\OneDrive\Desktop\Music Playlist Analyzer\bin\Debug\netcoreapp3.1\Music Playlist Analyzer.deps.json
+C:\Users\cm3wa\OneDrive\Desktop\Music Playlist Analyzer\bin\Debug\netcoreapp3.1\Music Playlist Analyzer.runtimeconfig.json
+C:\Users\cm3wa\OneDrive\Desktop\Music Playlist Analyzer\bin\Debug\netcoreapp3.1\Music Playlist Analyzer.runtimeconfig.dev.json
+C:\Users\cm3wa\OneDrive\Desktop\Music Playlist Analyzer\bin\Debug\netcoreapp3.1\Music Playlist Analyzer.dll
+C:\Users\cm3wa\OneDrive\Desktop\Music Playlist Analyzer\bin\Debug\netcoreapp3.1\Music Playlist Analyzer.pdb
+C:\Users\cm3wa\OneDrive\Desktop\Music Playlist Analyzer\obj\Debug\netcoreapp3.1\Music Playlist Analyzer.csprojAssemblyReference.cache
+C:\Users\cm3wa\OneDrive\Desktop\Music Playlist Analyzer\obj\Debug\netcoreapp3.1\Music Playlist Analyzer.AssemblyInfoInputs.cache
+C:\Users\cm3wa\OneDrive\Desktop\Music Playlist Analyzer\obj\Debug\netcoreapp3.1\Music Playlist Analyzer.AssemblyInfo.cs
+C:\Users\cm3wa\OneDrive\Desktop\Music Playlist Analyzer\obj\Debug\netcoreapp3.1\Music Playlist Analyzer.dll
+C:\Users\cm3wa\OneDrive\Desktop\Music Playlist Analyzer\obj\Debug\netcoreapp3.1\Music Playlist Analyzer.pdb
